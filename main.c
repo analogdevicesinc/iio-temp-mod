@@ -16,7 +16,7 @@
 #include <unistd.h>
 #include <ctype.h>
 
-#include <json.h>
+#include <json/json.h>
 #include <iio.h>
 
 #define MVP_ERROR(x, ...) fprintf(stderr, "%s:%d: " x, __func__, __LINE__,  ##__VA_ARGS__)
