@@ -1,6 +1,3 @@
-//http://ftp.de.debian.org/debian/pool/main/libs/libserialport/libserialport0_0.1.1-1_armhf.deb
-//http://ftp.de.debian.org/debian/pool/main/libs/libserialport/libserialport-dev_0.1.1-1_armhf.deb
-
 /**
  * Copyright 2016(c) Analog Devices, Inc.
  *
