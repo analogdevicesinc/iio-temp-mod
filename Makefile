@@ -11,3 +11,6 @@ iio_temp_mod: main.c
 
 clean:
 	$(RM) iio_temp_mod
+
+install:
+	install ./iio_temp_mod /usr/bin
