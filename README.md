@@ -35,6 +35,8 @@ IIO Temperature Module streaming example
 
  * Example: iio_temp_mod
 
+   Depending on the version of the Raspberry PI you're using the serial port tty is either **ttyAMA0** or **ttyS0**
+
 ```bash
 	pi@raspberrypi:~ $ iio_temp_mod -v -u serial:/dev/ttyAMA0,38400n8 iio-temp-mod/defaultConfig.json
 	TEMP_MODULE-1 Version: 1.2
