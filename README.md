@@ -28,7 +28,7 @@ IIO Temperature Module streaming example
   - Type following commands:
 
 ```bash
-	pi@raspberrypi:~ $ wget https://github.com/analogdevicesinc/iio-temp-mod/blob/master/rpi_setup.sh
+	pi@raspberrypi:~ $ wget -N  https://raw.githubusercontent.com/analogdevicesinc/iio-temp-mod/master/rpi_setup.sh
 	pi@raspberrypi:~ $ chomd +x rpi_setup.sh
 	pi@raspberrypi:~ $ ./rpi_setup.sh
  ```
